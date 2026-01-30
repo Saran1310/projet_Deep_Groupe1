@@ -1,7 +1,7 @@
 # Classification d'Images (Chats vs Chiens) avec PyTorch
 
 ## Description du Projet
-Ce projet a été réalisé dans le cadre d'un mini-projet de Machine Learning.L'objectif est de construire et d'améliorer systématiquement un modèle de réseau de neurones convolutifs (CNN) pour classifier des images de chats et de chiens.
+Ce projet a été réalisé dans le cadre d'un mini-projet de Machine Learning. L'objectif était de construire un modèle de réseau de neurones performant. Notre choix s'est porté sur une architecture de réseau de neurones convolutifs (CNN) pour classifier des images de chats et de chiens. Par la suite, nous avons mené différentes expériences systématiques afin d'identifier les paramètres et les techniques d'optimisation permettant d'obtenir le modèle le plus efficace
 
 ## Dataset
 **Source** : Kaggle (`chetankv/dogs-cats-images`).
